@@ -25,4 +25,4 @@ class Solution {
 
         return (int)(sign * result);
     }
-}
+} 
